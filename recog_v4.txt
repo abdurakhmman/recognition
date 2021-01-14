@@ -1,0 +1,89 @@
+Bernoulli parameter: 0
+recognised string: 'very simple text'
+original string:   'very simple text'
+
+Bernoulli parameter: 0.3
+recognised string: 'very simple text'
+original string:   'very simple text'
+
+Bernoulli parameter: 0.4
+recognised string: 'very simple te t'
+original string:   'very simple text'
+
+Bernoulli parameter: 0.45
+recognised string: 'wely bemphe tor '
+original string:   'very simple text'
+
+Bernoulli parameter: 0.5
+recognised string: 'the the the the '
+original string:   'very simple text'
+
+Bernoulli parameter: 0.55
+recognised string: 'yous st ple t ti'
+original string:   'very simple text'
+
+Bernoulli parameter: 0.6
+recognised string: 'very sim le text'
+original string:   'very simple text'
+
+Bernoulli parameter: 0.7
+recognised string: 'very simple text'
+original string:   'very simple text'
+
+Bernoulli parameter: 1
+recognised string: 'very simple text'
+original string:   'very simple text'
+
+____________________________________________________________________________________
+Bernoulli parameter: 0.3
+recognised string: 'but thence i learn and find the lesson true drugs poison him that so feil sick of you'
+original string:   'but thence i learn and find the lesson true drugs poison him that so feil sick of you'
+
+Bernoulli parameter: 0.4
+recognised string: 'but thence i uearn and find the lesson tr e drugs poison him that so fe l sick of you'
+original string:   'but thence i learn and find the lesson true drugs poison him that so feil sick of you'
+
+Bernoulli parameter: 0.45
+recognised string: 'brt thirre d mean hand pind ther t told cui ichis arisonchin thal so lexcks ck by hor'
+original string:   'but thence i learn and find the lesson true drugs poison him that so feil sick of you'
+
+Bernoulli parameter: 0.55
+recognised string: 'but the ce i ve on and rind thed isson tone yougsthousongher thathen fe g s te of you'
+original string:   'but thence i learn and find the lesson true drugs poison him that so feil sick of you'
+
+Bernoulli parameter: 0.6
+recognised string: 'but thence i learn an l ind the lesson true drugs foison him that so feil sick of you'
+original string:   'but thence i learn and find the lesson true drugs poison him that so feil sick of you'
+
+Bernoulli parameter: 0.7
+recognised string: 'but thence i learn and find the lesson true drugs poison him that so feil sick of you'
+original string:   'but thence i learn and find the lesson true drugs poison him that so feil sick of you'
+
+____________________________________________________________________________________
+Bernoulli parameter: 0.3
+recognised string: 'i am alone the villain of the earth and feel i am so most'
+original string:   'i am alone the villain of the earth and feel i am so most'
+
+Bernoulli parameter: 0.4
+recognised string: 'i am alone the vil ain of themearth and feen w am so most'
+original string:   'i am alone the villain of the earth and feel i am so most'
+
+Bernoulli parameter: 0.45
+recognised string: 'heed alonkin o aillaithof the anot man thes timam we me t'
+original string:   'i am alone the villain of the earth and feel i am so most'
+
+Bernoulli parameter: 0.55
+recognised string: 'ice corome whe yo ingunof iter trth ifor ake ivatheo anet'
+original string:   'i am alone the villain of the earth and feel i am so most'
+
+Bernoulli parameter: 0.6
+recognised string: 'i am alone the villaindof thelearth and feel i am so most'
+original string:   'i am alone the villain of the earth and feel i am so most'
+
+Bernoulli parameter: 0.65
+recognised string: 'i am alone the villain of the earth and feel i am so most'
+original string:   'i am alone the villain of the earth and feel i am so most'
+
+____________________________________________________________________________________
+
+Process finished with exit code 0
